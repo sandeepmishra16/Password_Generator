@@ -5,6 +5,6 @@ user can also include number & character with the password.
 
 
 TechStacks I have used :
-React.js
-JavaScript
+React.js,
+JavaScript,
 Tailwind CSS
